@@ -1,18 +1,18 @@
 +# 👋 Hi, I'm **Kate KUDAWOO** 
 ---
 
-* 🎓 **Étudiant en Licence – Informatique | Génie Logiciel**
+* 🎓 **Étudiante en Licence – Informatique | Génie Logiciel**
 * 💻 **Computer Science & Robotics Enthusiast**
-* 🤖 **Intéressé par le développement logiciel, l’IA et les systèmes intelligents**
+* 🤖 **Intéressée par le développement logiciel, l’IA et les systèmes intelligents**
   
 ---
 
 ## 🚀 About Me
 
-* 🎓 Étudiant en **Licence d’Informatique – Génie Logiciel**
-* 🧠 Passionné par la compréhension des **systèmes, algorithmes et technologies modernes**
+* 🎓 Étudiante en **Licence d’Informatique – Génie Logiciel**
+* 🧠 Passionnée par la compréhension des **systèmes, algorithmes et technologies modernes**
 * 🛠️ J’apprends principalement **en pratiquant** et en construisant des projets concrets
-* 🤝 Ouvert aux **collaborations**, projets académiques et techniques
+* 🤝 Ouverte aux **collaborations**, projets académiques et techniques
 
 ---
 
