@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Kate KUDAWOO** 
++# 👋 Hi, I'm **Kate KUDAWOO** 
 ---
 
 * 🎓 **Étudiant en Licence – Informatique | Génie Logiciel**
