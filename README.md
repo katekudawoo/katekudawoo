@@ -50,9 +50,9 @@
 
 ## 🌍 Contact
 
-* 💼 **LinkedIn** : [https://www.linkedin.com/in/jean-kpetsi-06b636369/](https://www.linkedin.com/in/)
-* 📧 **Email** : [apotrekokoujean06@gmail.com](mailto:)
-* 🐙 **GitHub** : [https://github.com/JeanJAKK](https://github.com/katekudawoo)
+* 💼 **LinkedIn** : [www.linkedin.com/in/kate-kudawoo-453124342](www.linkedin.com/in/kate-kudawoo-453124342)
+* 📧 **Email** : [katebertrya@gmail.com](mailto:katebertrya@gmail.com)
+* 🐙 **GitHub** : [https://github.com/katekudawooo](https://github.com/katekudawoo)
 
 ---
 
